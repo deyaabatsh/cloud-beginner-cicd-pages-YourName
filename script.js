@@ -12,7 +12,7 @@ const lines = [
   "📦 Uploading site artifact...",
   "🚀 Deploying to GitHub Pages...",
   "✅ Deployment successful!",
-  "🌐 Your site is LIVE at: https://yourusername.github.io/cloud-beginner-cicd-pages-YourName/"
+  "🌐 Your site is LIVE at: https://deyaabatsh.github.io/cloud-beginner-cicd-pages-DeyaaAlBatsh/"
 ];
 
 let running = false;
